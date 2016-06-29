@@ -1,0 +1,14 @@
+{
+  "repositories": [
+    {
+      "packagist": false
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/crehders/test3"
+    }
+  ],
+  "require": {
+    "crehders/test3": "dev-master"
+  }
+}
