@@ -9,6 +9,7 @@
     }
   ],
   "require": {
-    "crehders/test3": "dev-master"
+    "crehders/test3": "dev-master",
+    "crehders/test5": "dev-master"
   }
 }
