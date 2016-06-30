@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/crehders/test3.git",
-                "reference": "1decde28c9da09ff0f69c240e3468929e3c3f287"
+                "reference": "8e9e802df2bc34056b74447d46cf57d7c5f52fff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/crehders/test3/zipball/1decde28c9da09ff0f69c240e3468929e3c3f287",
-                "reference": "1decde28c9da09ff0f69c240e3468929e3c3f287",
+                "url": "https://api.github.com/repos/crehders/test3/zipball/8e9e802df2bc34056b74447d46cf57d7c5f52fff",
+                "reference": "8e9e802df2bc34056b74447d46cf57d7c5f52fff",
                 "shasum": ""
             },
             "require": {
@@ -39,7 +39,7 @@
                 "source": "https://github.com/crehders/test3/tree/master",
                 "issues": "https://github.com/crehders/test3/issues"
             },
-            "time": "2016-06-30 07:10:54"
+            "time": "2016-06-30 09:32:32"
         },
         {
             "name": "crehders/test5",
