@@ -1,19 +1,25 @@
 {
   "repositories": [
     {
-      "packagist": false
-    },
-    {
       "type": "vcs",
       "url": "https://github.com/crehders/test3"
     },
     {
       "type": "vcs",
       "url": "https://github.com/crehders/test5"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/crehders/test6"
     }
   ],
   "require": {
     "crehders/test3": "dev-master",
-    "crehders/test5": "dev-master"
+    "crehders/test5": "dev-master",
+    "zendframework/zendframework1": "1.12.0",
+    "phpoffice/phpexcel": "1.8.1"
+  },
+  "require-dev": {
+    "crehders/test6": "dev-master"
   }
 }
