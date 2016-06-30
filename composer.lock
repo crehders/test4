@@ -1,0 +1,87 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "2f0bb6b26fd6aa8391675fb78646b497",
+    "content-hash": "7e1ddae14a3e9fe45e5403ac0ba9a955",
+    "packages": [
+        {
+            "name": "crehders/test3",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/crehders/test3.git",
+                "reference": "1decde28c9da09ff0f69c240e3468929e3c3f287"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/crehders/test3/zipball/1decde28c9da09ff0f69c240e3468929e3c3f287",
+                "reference": "1decde28c9da09ff0f69c240e3468929e3c3f287",
+                "shasum": ""
+            },
+            "require": {
+                "crehders/test5": "dev-master"
+            },
+            "type": "library",
+            "authors": [
+                {
+                    "name": "crehders",
+                    "role": "lead"
+                }
+            ],
+            "description": "meeeh",
+            "keywords": [
+                "test"
+            ],
+            "support": {
+                "source": "https://github.com/crehders/test3/tree/master",
+                "issues": "https://github.com/crehders/test3/issues"
+            },
+            "time": "2016-06-30 07:10:54"
+        },
+        {
+            "name": "crehders/test5",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/crehders/test5.git",
+                "reference": "4fd6d46ab9dca0e62d37cf66b02dafb5b3d0ed50"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/crehders/test5/zipball/4fd6d46ab9dca0e62d37cf66b02dafb5b3d0ed50",
+                "reference": "4fd6d46ab9dca0e62d37cf66b02dafb5b3d0ed50",
+                "shasum": ""
+            },
+            "type": "library",
+            "authors": [
+                {
+                    "name": "crehders",
+                    "role": "lead"
+                }
+            ],
+            "description": "meeeh2",
+            "keywords": [
+                "test"
+            ],
+            "support": {
+                "source": "https://github.com/crehders/test5/tree/master",
+                "issues": "https://github.com/crehders/test5/issues"
+            },
+            "time": "2016-06-30 07:03:09"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "crehders/test3": 20,
+        "crehders/test5": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
