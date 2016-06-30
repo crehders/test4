@@ -6,6 +6,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/crehders/test3"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/crehders/test5"
     }
   ],
   "require": {
