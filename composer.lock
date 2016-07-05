@@ -4,9 +4,39 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "2f0bb6b26fd6aa8391675fb78646b497",
-    "content-hash": "7e1ddae14a3e9fe45e5403ac0ba9a955",
+    "hash": "402bbd3a8d0b70a9f3a003c0ff9ae30c",
+    "content-hash": "15586954f2a7327827286b04b19341c9",
     "packages": [
+        {
+            "name": "bahag/mub_applet",
+            "version": "99",
+            "source": {
+                "type": "svn",
+                "url": "http://svn.bahag.com/BAHAG_MuB/MuB_Applet",
+                "reference": "trunk/jar@99"
+            },
+            "type": "library"
+        },
+        {
+            "name": "bahag/paw_client",
+            "version": "211",
+            "source": {
+                "type": "svn",
+                "url": "http://svn.bahag.com/BAHAG_PAW/PAW3.0/client",
+                "reference": "trunk/bin@211"
+            },
+            "type": "library"
+        },
+        {
+            "name": "bahag/portal_lib",
+            "version": "11416",
+            "source": {
+                "type": "svn",
+                "url": "http://svn.bahag.com/BAHAG_PHP/vendor/bahag",
+                "reference": "trunk/Bahag@11416"
+            },
+            "type": "library"
+        },
         {
             "name": "crehders/test3",
             "version": "dev-master",

@@ -10,10 +10,39 @@
     {
       "type": "vcs",
       "url": "https://github.com/crehders/test5"
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "bahag/paw_client",
+        "version": "211",
+        "source": {
+          "type": "svn",
+          "url": "http://svn.bahag.com/BAHAG_PAW/PAW3.0/client",
+          "reference": "trunk/bin@211"
+          }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "bahag/mub_applet",
+        "version": "99",
+        "source": {
+          "type": "svn",
+          "url": "http://svn.bahag.com/BAHAG_MuB/MuB_Applet",
+          "reference": "trunk/jar@99"
+        }
+      }
     }
   ],
   "require": {
     "crehders/test3": "dev-master",
-    "crehders/test5": "dev-master"
+    "crehders/test5": "dev-master",
+    "bahag/paw_client": "211",
+    "bahag/mub_applet": "99"
+  },
+  "config": {
+    "secure-http": false
   }
 }
